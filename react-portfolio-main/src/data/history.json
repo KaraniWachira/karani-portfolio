@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "The Jitu Ltd",
+    "startDate": "May, 2023",
+    "endDate": "July",
+    "experiences": ["Worked as a fullstack developer Trainee"],
+    "imageSrc": "history/the_jitu_logo.png"
+  },
+  {
+    "role": "Technical Writer",
+    "organisation": "DeKUT R Community",
+    "startDate": "Jan, 2021",
+    "endDate": "Dec, 2023",
+    "experiences": ["Worked on technical articles"],
+    "imageSrc": "history/DekutR.png"
+  },
+  {
+    "role": "FrontEnd Developer",
+    "organisation": "Masomo Network",
+    "startDate": "Nov, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked digital learning platform",
+      "Worked on UI/UX of the DLP"
+    ],
+    "imageSrc": "history/digital_learn.jpeg"
+  }
+]

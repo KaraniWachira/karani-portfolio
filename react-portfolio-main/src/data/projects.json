@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Innovation Video in my field",
+    "imageSrc": "projects/next_js.jpeg",
+    "description": "A presentation of Next js technology in web development.",
+    "skills": ["Nextjs", "Innovation"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Video on problems facing modern society",
+    "imageSrc": "projects/digital.png",
+    "description": "Video describing the challenge supply chain in the informal retail space ",
+    "skills": ["challenge"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "PPT on African cultural music on Afrobeat music",
+    "imageSrc": "projects/african.jpeg",
+    "description": "How African cultural aspects have boosted the rise of African music globally",
+    "skills": ["African culture"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "Autobiography Essay",
+    "imageSrc": "projects/autobio.jpeg",
+    "description": "",
+    "skills": ["autobio"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "PPT on my autobiography",
+    "imageSrc": "projects/african.jpeg",
+    "description": "",
+    "skills": ["autobio presentation"],
+    "demo": "https://www.example.com"
+  },
+  {
+    "title": "My CV",
+    "imageSrc": "projects/cv.jpeg",
+    "description": "my cv in english, swahili & Kikuyu",
+    "skills": ["CV"],
+    "demo": "https://www.example.com"
+  }
+
+]
