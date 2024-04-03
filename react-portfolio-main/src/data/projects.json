@@ -4,7 +4,7 @@
     "imageSrc": "projects/next_js.jpeg",
     "description": "A presentation of Next js technology in web development.",
     "skills": ["Nextjs", "Innovation"],
-    "demo": "https://www.example.com"
+    "demo": "https://docs.google.com/presentation/d/1F4p2T71SToljq8kRwabkzBNDQiog-RpR/edit?usp=drive_link&ouid=117475662217952202269&rtpof=true&sd=true"
   },
   {
     "title": "Video on problems facing modern society",
@@ -39,7 +39,7 @@
     "imageSrc": "projects/cv.jpeg",
     "description": "my cv in english, swahili & Kikuyu",
     "skills": ["CV"],
-    "demo": "https://www.example.com"
+    "demo": "https://drive.google.com/drive/folders/1jqJ6w_i-PSKC5fylJJZ1uWQKmQIJSUS5?usp=drive_link"
   }
 
 ]
